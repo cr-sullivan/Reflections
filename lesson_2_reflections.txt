@@ -1,0 +1,2 @@
+Lesson 2 us going fairly well so far
+Nice to finally create a .git repository !

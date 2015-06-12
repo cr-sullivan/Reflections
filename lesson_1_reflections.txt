@@ -1,0 +1,3 @@
+I quite like git
+but it can be hard to use
+and difficult to learn

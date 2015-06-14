@@ -3,3 +3,4 @@ Nice to finally create a .git repository !
 
 The staging area allows me to make lots of changes but move each file changed into the staging area individually and then commit one file at a time.
 
+Branches are good for minor projects to be merged back later
